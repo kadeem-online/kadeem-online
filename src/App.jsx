@@ -18,18 +18,21 @@ function App() {
 						This is Kadeem's Main Github Page
 					</h1>
 
-					<div className="cta">
+					<a href="https://kadeem.online" className="cta">
 						<button
-							className="cursor-pointer bg-ko-raspberry rounded-md text-whitefont-semibold
+							className="group/cta cursor-pointer bg-ko-quinacridone-magenta rounded-md text-whitefont-semibold
               transition duration-300 ease-in-out hover:bg-ko-raspberry/95 hover:ring-2
               hover:ring-ko-tiffany-blue hover:shadow-xl hover:shadow-ko-mint-green focus:ring-ko-mint-green
-              focus:shadow-ko-mint-green px-5 py-2"
+              focus:shadow-ko-mint-green hover:-translate-y-1 px-5 py-2"
 						>
-							<span className="font-amatic-sc font-bold text-2xl">
+							<span
+								className="font-amatic-sc font-bold text-4xl transition-all group-hover/cta:-translate-y-[2px]
+								inline-block"
+							>
 								Visit Website
 							</span>
 						</button>
-					</div>
+					</a>
 				</div>
 			</section>
 		</>
