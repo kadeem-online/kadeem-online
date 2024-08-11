@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Kadeem.
 
-<!--
-**kadeem-online/kadeem-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I?
 
-Here are some ideas to get you started:
+My name is ALexander Kadeem and I am a web developer. I am based in Nairobi, Kenya.
+For the past few years I have enjoyed a passion and desire for programming and the
+freedom it brings to create something from nothing. In future i would like the chance
+to work on interesting projects and learn more programming languages. For now however
+I have to focus on my main task building a name for myself and overcoming my currently
+present Impostor Syndrome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stuff I've worked on:
+
+- [**The Chuck App**](https://kadeem-online.github.io/React-004-ChuckNorrisApp/) - a simple react app that uses the [the Chuck Norris API](https://api.chucknorris.io/) to fetch Chuck Norris jokes for it's user. **NOTE**: _NSFW jokes may be fetched._
