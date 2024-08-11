@@ -1,12 +1,14 @@
 # Hi there 👋, I'm Kadeem.
 
+**Website:** [https://kadeem.online](https://kadeem.online)
+
 ## Who Am I?
 
-My name is ALexander Kadeem and I am a web developer. I am based in Nairobi, Kenya.
+My name is Alexander Kadeem and I am a web developer based in Nairobi, Kenya.
 For the past few years I have enjoyed a passion and desire for programming and the
-freedom it brings to create something from nothing. In future i would like the chance
+freedom it brings to create something from nothing. In future I would like the chance
 to work on interesting projects and learn more programming languages. For now however
-I have to focus on my main task building a name for myself and overcoming my currently
+I have to focus on my main task, building a name for myself and overcoming my currently
 present Impostor Syndrome.
 
 ## Stuff I've worked on:
